@@ -1,11 +1,15 @@
 ---
-layout: post
 title: Blog Post Part Deux
+date: 2015-03-02 00:00:00 Z
+layout: post
 author: Start Bootstrap
 previewimage: 900x300
-excerpt: >
-  This is the excerpt for blog post number 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?
+excerpt: 'This is the excerpt for blog post number 2. Lorem ipsum dolor sit amet,
+  consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente
+  nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae
+  laborum minus inventore?
 
+'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

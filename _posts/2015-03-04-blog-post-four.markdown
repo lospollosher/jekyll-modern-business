@@ -1,11 +1,15 @@
 ---
-layout: post
 title: Blog Post Number Four
+date: 2015-03-04 00:00:00 Z
+layout: post
 author: Start Bootstrap
 previewimage: 900x300
-excerpt: >
-  IThis is the excerpt for blog post number 4. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?
+excerpt: 'IThis is the excerpt for blog post number 4. Lorem ipsum dolor sit amet,
+  consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente
+  nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae
+  laborum minus inventore?
 
+'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, tenetur natus doloremque laborum quos iste ipsum rerum obcaecati impedit odit illo dolorum ab tempora nihil dicta earum fugiat. Temporibus, voluptatibus.
