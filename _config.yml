@@ -22,3 +22,4 @@ markdown: kramdown
 permalink: "/:year/:title"
 organization: Your Organization
 placeholderimagesbaseurl: http://placehold.it/
+repository: lospollosher/jekyll-modern-business
